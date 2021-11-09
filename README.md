@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @VineethN98
-- 👀 I’m interested in anything related to Python
-- 🌱 I’m currently learning Golang
 - 📫 Reach me on linkedin: linkedin.com/in/vineeth-nair22 or gmail: vineethvenunair98@gmail.com
 
 <!---
